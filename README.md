@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-![E-Commerce Banner](![image](https://github.com/user-attachments/assets/4d42f419-8985-4159-b1d0-f3cd91545171)
+![E-Commerce Banner](![desktop](https://github.com/user-attachments/assets/2dad0991-d520-4eb2-9ddb-817ee5fa374a)
 ) <!-- Add your project banner image here -->
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://www.w3.org/html/)
