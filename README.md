@@ -1,6 +1,7 @@
 # E-Commerce Website
 
-![E-Commerce Banner](https://via.placeholder.com/1200x400) <!-- Add your project banner image here -->
+![E-Commerce Banner](![image](https://github.com/user-attachments/assets/4d42f419-8985-4159-b1d0-f3cd91545171)
+) <!-- Add your project banner image here -->
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/Style/CSS/)
@@ -43,4 +44,4 @@ This is a **fully responsive e-commerce website** built using **HTML**, **CSS**,
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/Niyazuddin020622/Ecommerce-website-.git
